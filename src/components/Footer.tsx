@@ -13,7 +13,7 @@ const Footer = () => {
               Stile senza confini. Per lui e per lei.
             </p>
             <div className="flex space-x-4 mt-2">
-              <a href="tel:0363700765" className="hover:text-[#d4c9bc] transition-colors" aria-label="Telefono">
+              <a href="tel:0363419388" className="hover:text-[#d4c9bc] transition-colors" aria-label="Telefono">
                 <Phone size={20} />
               </a>
               <a
@@ -41,13 +41,13 @@ const Footer = () => {
           <div className="text-sm text-center md:text-left space-y-4">
             <div className="flex items-center justify-center md:justify-start">
               <Phone size={18} className="mr-2" />
-              <a href="tel:0363700765" className="hover:text-[#d4c9bc]">0363 700765</a>
+              <a href="tel:0363419388" className="hover:text-[#d4c9bc]">0363 419388</a>
             </div>
 
             <div className="flex items-start justify-center md:justify-start">
               <MapPin size={18} className="mr-2 mt-1" />
               <span>
-                Via Giovanni Mulazzani, 11<br />
+                Via Casnida, 16<br />
                 24047 Treviglio BG
               </span>
             </div>
@@ -68,7 +68,7 @@ const Footer = () => {
             <h3 className="text-lg font-medium mb-4">Dove Trovarci</h3>
             <div className="h-52 rounded-lg overflow-hidden shadow-md">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.3807632655804!2d9.592261776189732!3d45.52059047108275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4781520950b66831%3A0x9ab4e8c14f73ce2b!2sVia%20Giovanni%20Mulazzani%2C%2011%2C%2024047%20Treviglio%20BG!5e0!3m2!1sit!2sit!4v1715693287344!5m2!1sit!2sit"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.4876795851097!2d9.588974776189686!3d45.51850497108275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478151f5c2c7b0e7%3A0x8c8f5c4c8c5c4c4c!2sVia%20Casnida%2C%2016%2C%2024047%20Treviglio%20BG!5e0!3m2!1sit!2sit!4v1715693287344!5m2!1sit!2sit"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

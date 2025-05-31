@@ -35,7 +35,7 @@ const Hero = () => {
 
         {/* Right content block */}
         <div className="md:w-1/2 md:pr-20 text-right">
-          <h1 className="text-5xl md:text-7xl font-serif font-bold mb-2">Mory New Style</h1>
+          <h1 className="text-5xl md:text-7xl font-serif font-bold mb-2 whitespace-nowrap">Mory New Style</h1>
           <p className="text-lg md:text-2xl font-light mb-4">
             Stile senza confini. Per lui e per lei.
           </p>
